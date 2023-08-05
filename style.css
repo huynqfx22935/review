@@ -1,0 +1,11 @@
+.float {
+  float: left;
+}
+.clear {
+  clear: both;
+}
+p {
+  color: red;
+  font-size: 18px;
+  text-decoration: underline;
+}
